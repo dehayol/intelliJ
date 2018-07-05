@@ -10,6 +10,7 @@
       <mapping pattern="templates" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".ansible.config" type="PLAIN_TEXT" />
       <mapping pattern="jboss-7-as-Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
