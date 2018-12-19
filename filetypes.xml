@@ -9,6 +9,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="templates" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
+      <mapping pattern="b2g-test" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".ansible.config" type="PLAIN_TEXT" />
