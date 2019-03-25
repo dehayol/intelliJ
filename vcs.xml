@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/Frogggs/QomplyB2GBackendService.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Frogggs/QomplyB2BSFTP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\msn\Documents\git\frogggs" />
